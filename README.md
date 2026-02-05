@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abu Nayim Mohammad Rakib</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
-
+<h1 align="center">Hello World! , I'm Abu Nayim Mohammad Rakib</h1>
+<h3 align="center">I’m a curious learner and passionate web developer who enjoys turning ideas into simple, functional websites. I love exploring new technologies, solving problems, and continuously improving my skills.</h3>
+<hr>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=webdiv-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="webdiv-rakib" /> 
   <a href="https://wakatime.com/@58e3afa4-1eed-4179-9285-546b8458169e">
     <img src="https://wakatime.com/badge/user/58e3afa4-1eed-4179-9285-546b8458169e.svg" alt="Total time coded since Jan 20 2024" />
   </a>
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdiv-rakib" alt="webdiv-rakib" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/abu.nayim.mohammad.rakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu.nayim.mohammad.rakib" height="30" width="40" /></a>
