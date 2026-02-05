@@ -1,4 +1,8 @@
-<h1 align="center">Hello World! , I'm Abu Nayim Mohammad Rakib</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quintessential&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Abu+Nayim+Mohammad+Rakib;A+Passionate+Web+Developer" alt="Typing SVG" />
+  </a>
+</h1>
 <h3 align="center">I’m a curious learner and passionate web developer who enjoys turning ideas into simple, functional websites. I love exploring new technologies, solving problems, and continuously improving my skills.</h3>
 <hr>
 <p align="left"> 
