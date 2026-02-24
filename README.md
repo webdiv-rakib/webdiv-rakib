@@ -95,3 +95,31 @@
 </p>
 
 <br>
+
+💻 My Deployed Projects
+<br>
+<h2>Static Website</h2>
+<ul>
+  <li><a href="https://webdiv-rakib.github.io/kids-education/">Kids Education</li>
+  <li><a href="https://webdiv-rakib.github.io/biker-zone/">Biker Zone</li>
+  <li><a href="https://webdiv-rakib.github.io/pet-house/">Pet House</li>
+  <li><a href="https://webdiv-rakib.github.io/tea-house/">Tea House</li>
+  <li><a href="https://webdiv-rakib.github.io/tea-house/">Tea House</li>
+  <li><a href="https://webdiv-rakib.github.io/penguin-fashion-shop/">Penguin Fashion</li>
+  <li><a href="https://webdiv-rakib.github.io/g3-architects-project/">G3 Architects</li>
+  <li><a href="https://webdiv-rakib.github.io/webflow-agencies/">Agencies</li>
+</ul>
+
+<h2>Using JavaScript</h2>
+<ul>
+  <li><a href="https://webdiv-rakib.github.io/donate-bangladesh/">Donate Bangladesh</li>
+</ul>
+
+<h2>Custom API Used</h2>
+<ul>
+  <li><a href="https://peddy-peddy.netlify.app/">Buy Pet From Peddy</li>
+  <li><a href="https://ph-tube-like-yt.netlify.app/">Personal Youtube</li>
+  <li><a href="https://swift-cart-1.netlify.app/">Swift E Commerce Site</li>
+  <li><a href="https://knowledge-cafe-2.netlify.app/">Knowledge Cafe</li>
+</ul>
+
