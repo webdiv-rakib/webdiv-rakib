@@ -227,5 +227,13 @@
       <sub><b>Knowledge Cafe</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://dream-11-select.netlify.app/">
+        <img src="https://i.ibb.co.com/qYD5ttBc/Screenshot-2026-02-25-025659.png" width="100%">
+      </a><br>
+      <sub><b>Knowledge Cafe</b></sub>
+    </td>
+  </tr>
 </table>
 
