@@ -108,6 +108,9 @@
   <li><a href="https://webdiv-rakib.github.io/penguin-fashion-shop/">Penguin Fashion</li>
   <li><a href="https://webdiv-rakib.github.io/g3-architects-project/">G3 Architects</li>
   <li><a href="https://webdiv-rakib.github.io/webflow-agencies/">Agencies</li>
+  <li><a href="https://webdiv-rakib.github.io/bangladesh-2.0/">Bangladesh 2.0</li>
+  <li><a href="https://webdiv-rakib.github.io/webdeveloper-portfolio-project/">Portfolio</li>
+  <li><a href="https://webdiv-rakib.github.io/food-restaurant/">Food Restaurant</li>
 </ul>
 
 <h2>Using JavaScript</h2>
