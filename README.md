@@ -3,6 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Quintessential&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Abu+Nayim+Mohammad+Rakib;A+Passionate+Web+Developer" alt="Typing SVG" />
   </a>
 </h1>
+<p align="center">
+  <img src="https://i.ibb.co.com/gZxtf2ds/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif">
+</p>
 <h3 align="center">I’m a curious learner and passionate web developer who enjoys turning ideas into simple, functional websites. I love exploring new technologies, solving problems, and continuously improving my skills.</h3>
 <hr>
 <p align="left"> 
