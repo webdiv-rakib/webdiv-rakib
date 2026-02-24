@@ -1,15 +1,22 @@
+[//]: # (Name Section)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Quintessential&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Abu+Nayim+Mohammad+Rakib;A+Passionate+Web+Developer" alt="Typing SVG" />
   </a>
 </h1>
+
+[//]: # (Main Gif Section)
 <p align="center">
   <kbd>
     <img src="https://i.ibb.co.com/HTZn7JkR/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif" width="500" style="border-radius: 20px;">
   </kbd>
 </p>
+
+[//]: # (About Me Description Section)
 <h3 align="center">I’m a curious learner and passionate web developer who enjoys turning ideas into simple, functional websites. I love exploring new technologies, solving problems, and continuously improving my skills.</h3>
 <hr>
+
+[//]: # (Profile Visit and Wakatime Section)
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=webdiv-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="webdiv-rakib" /> 
   <a href="https://wakatime.com/@58e3afa4-1eed-4179-9285-546b8458169e">
@@ -17,6 +24,7 @@
   </a>
 </p>
 
+[//]: # (Social Media Connection Section)
 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UbUkGVdV)
@@ -27,14 +35,12 @@
 
 📈 Current Stats
 
+[//]: # (Github Streaks Section)
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=webdiv-rakib&theme=onedark&hide_border=true" alt=ANM Rakib's GitHub State" />
 </p>
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=webdiv-rakib&show_icons=true&locale=en&theme=onedark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=webdiv-rakib&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="ANM Rakib's GitHub Stats 2" />
-  </a>
-</p>
+
+[//]: # (Github Contribution Section)
 <p align="center">
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdiv-rakib&theme=onedark">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdiv-rakib&theme=onedark" alt="ANM Rakib's GitHub Contributions Summary" />
