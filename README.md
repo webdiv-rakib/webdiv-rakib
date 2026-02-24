@@ -105,7 +105,6 @@
   <li><a href="https://webdiv-rakib.github.io/biker-zone/">Biker Zone</li>
   <li><a href="https://webdiv-rakib.github.io/pet-house/">Pet House</li>
   <li><a href="https://webdiv-rakib.github.io/tea-house/">Tea House</li>
-  <li><a href="https://webdiv-rakib.github.io/tea-house/">Tea House</li>
   <li><a href="https://webdiv-rakib.github.io/penguin-fashion-shop/">Penguin Fashion</li>
   <li><a href="https://webdiv-rakib.github.io/g3-architects-project/">G3 Architects</li>
   <li><a href="https://webdiv-rakib.github.io/webflow-agencies/">Agencies</li>
