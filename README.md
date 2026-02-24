@@ -99,20 +99,58 @@
 
 💻 My Deployed Projects
 <br>
-<h2>Static Website</h2>
-<ul>
-  <li><a href="https://webdiv-rakib.github.io/kids-education/">Kids Education</li>
-  <li><a href="https://webdiv-rakib.github.io/biker-zone/">Biker Zone</li>
-  <li><a href="https://webdiv-rakib.github.io/pet-house/">Pet House</li>
-  <li><a href="https://webdiv-rakib.github.io/tea-house/">Tea House</li>
-  <li><a href="https://webdiv-rakib.github.io/penguin-fashion-shop/">Penguin Fashion</li>
-  <li><a href="https://webdiv-rakib.github.io/g3-architects-project/">G3 Architects</li>
-  <li><a href="https://webdiv-rakib.github.io/webflow-agencies/">Agencies</li>
-  <li><a href="https://webdiv-rakib.github.io/bangladesh-2.0/">Bangladesh 2.0</li>
-  <li><a href="https://webdiv-rakib.github.io/webdeveloper-portfolio-project/">Portfolio</li>
-  <li><a href="https://webdiv-rakib.github.io/food-restaurant/">Food Restaurant</li>
-  <li><a href="https://webdiv-rakib.github.io/flower-market/">Flower Shop</li>
-</ul>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://i.ibb.co.com/DP7jvZ0j/Screenshot-2026-02-24-202905.png" width="100%"><br>
+      <sub><b>Kids Education</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.ibb.co.com/bjXc3Gfv/Screenshot-2026-02-24-202930.png" width="100%"><br>
+      <sub><b>Biker Zone</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.ibb.co.com/KxSFnj7p/Screenshot-2026-02-24-202952.png" width="100%"><br>
+      <sub><b>Pet House</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.ibb.co.com/6JX7MBvs/Screenshot-2026-02-24-203011.png" width="100%"><br>
+      <sub><b>Tea House</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.ibb.co.com/v4S83BKR/Screenshot-2026-02-24-203033.png" width="100%"><br>
+      <sub><b>Penguin Fashion</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co.com/p6KzHK1D/Screenshot-2026-02-24-203048.png" width="100%"><br>
+      <sub><b>Architects</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co.com/R1N2z8z/Screenshot-2026-02-24-203116.png" width="100%"><br>
+      <sub><b>Web Agencies</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co.com/vxXnsCTC/Screenshot-2026-02-24-203134.png" width="100%"><br>
+      <sub><b>Bangladesh 2.0</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.ibb.co.com/JwCDbRcy/Screenshot-2026-02-24-203157.png" width="100%"><br>
+      <sub><b>Portfolio</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co.com/BKG12Fh7/Screenshot-2026-02-24-203210.png" width="100%"><br>
+      <sub><b>Food Restaurant</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co.com/Q7wFspCs/Screenshot-2026-02-24-203227.png" width="100%"><br>
+      <sub><b>Flower Shop</b></sub>
+    </td>
+    <td></td> </tr>
+</table>
 
 <h2>Using JavaScript</h2>
 <ul>
