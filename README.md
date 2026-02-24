@@ -53,3 +53,45 @@
   <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/firebase.png" alt="Firebase"/>
 </p>
 <br>
+
+🔎 Familiar With
+
+<p align="center"><i>Programming Languages</i></p>
+<p align="center">
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/PHP.png" alt="PHP"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/python-original.png" alt="Python"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/java-original.png" alt="Java"/>
+</p>
+<p align="center"><i>Front-end Technology (Web)</i></p>
+<p align="center">
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/Bootsrap.png" alt="Bootsrap"/>
+</p>
+
+<p align="center"><i>Software and Tools</i></p>
+<p align="center">
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/vs-code.png" alt="VS Code"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/git.png" alt="Git SCM"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/github-api.png" alt="GitHub"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/vercel.png" alt="Vercel"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/surge-logo.png" alt="Surge"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/code-blocks.jpg" alt="Code::Blocks"/>
+</p>
+<p align="center"><i>Operating System</i></p>
+<p align="center">
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/windows.png" alt="Windows"/>
+  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/ubuntu.png" alt="Ubuntu"/>
+</p>
+
+<br>
+
+⏰ Active Time
+
+<br>
+
+<p align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webdiv-rakib&theme=onedark&utcOffset=6">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=webdiv-rakib&theme=onedark&utcOffset=6" alt="ANM Rakib's Active Time in GitHub" width="55%" />
+  </a>
+</p>
+
+<br>
