@@ -210,7 +210,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://ph-tube-like-yt.netlify.app/">
-        <img src="https://i.ibb.co.com/6Jp3tXPh/Screenshot-2026-02-24-203344.png" width="100%">
+        <img src="https://s13.gifyu.com/images/bvCWo.png" width="100%">
       </a><br>
       <sub><b>Personal Youtube</b></sub>
     </td>
@@ -222,7 +222,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://knowledge-cafe-2.netlify.app/">
-        <img src="https://i.ibb.co.com/tTg28hqF/Screenshot-2026-02-24-203410.png" width="100%">
+        <img src="https://s13.gifyu.com/images/bvCWB.png" width="100%">
       </a><br>
       <sub><b>Knowledge Cafe</b></sub>
     </td>
