@@ -4,7 +4,9 @@
   </a>
 </h1>
 <p align="center">
-  <img src="https://i.ibb.co.com/HTZn7JkR/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif" width="500">
+  <kbd>
+    <img src="https://i.ibb.co.com/HTZn7JkR/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif" width="500" style="border-radius: 20px;">
+  </kbd>
 </p>
 <h3 align="center">I’m a curious learner and passionate web developer who enjoys turning ideas into simple, functional websites. I love exploring new technologies, solving problems, and continuously improving my skills.</h3>
 <hr>
