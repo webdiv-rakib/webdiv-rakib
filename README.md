@@ -111,6 +111,12 @@
 <br>
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
+    <th colspan="4" align="center">
+      <h1>Static Website</h1>
+    </th>
+  </tr>
+  
+  <tr>
     <td align="center" width="25%">
       <img src="https://i.ibb.co.com/DP7jvZ0j/Screenshot-2026-02-24-202905.png" width="100%"><br>
       <sub><b>Kids Education</b></sub>
@@ -128,6 +134,7 @@
       <sub><b>Tea House</b></sub>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://i.ibb.co.com/v4S83BKR/Screenshot-2026-02-24-203033.png" width="100%"><br>
@@ -146,6 +153,7 @@
       <sub><b>Bangladesh 2.0</b></sub>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://i.ibb.co.com/JwCDbRcy/Screenshot-2026-02-24-203157.png" width="100%"><br>
