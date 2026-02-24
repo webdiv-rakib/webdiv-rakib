@@ -117,6 +117,7 @@
 <h2>Using JavaScript</h2>
 <ul>
   <li><a href="https://webdiv-rakib.github.io/donate-bangladesh/">Donate Bangladesh</li>
+  <li><a href="https://webdiv-rakib.github.io/payoo-with-dom/">Mobile Banking</li>
 </ul>
 
 <h2>Custom API Used</h2>
