@@ -171,11 +171,28 @@
   </tr>
 </table>
 
-<h2>Using JavaScript</h2>
-<ul>
-  <li><a href="https://webdiv-rakib.github.io/donate-bangladesh/">Donate Bangladesh</li>
-  <li><a href="https://webdiv-rakib.github.io/payoo-with-dom/">Mobile Banking</li>
-</ul>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th colspan="2" align="center">
+      <h1>Using JavaScript</h1>
+    </th>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://webdiv-rakib.github.io/donate-bangladesh/">
+        <img src="https://i.ibb.co.com/ccnt3tdc/Screenshot-2026-02-24-212112.png" width="100%">
+      </a><br>
+      <sub><b>Donate Bangladesh</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://webdiv-rakib.github.io/payoo-with-dom/">
+        <img src="https://i.ibb.co.com/1wb98Mk/Screenshot-2026-02-24-212124.png" width="100%">
+      </a><br>
+      <sub><b>Mobile Banking</b></sub>
+    </td>
+  </tr>
+</table>
 
 <h2>Custom API Used</h2>
 <ul>
