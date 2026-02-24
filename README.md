@@ -194,11 +194,38 @@
   </tr>
 </table>
 
-<h2>Custom API Used</h2>
-<ul>
-  <li><a href="https://peddy-peddy.netlify.app/">Buy Pet From Peddy</li>
-  <li><a href="https://ph-tube-like-yt.netlify.app/">Personal Youtube</li>
-  <li><a href="https://swift-cart-1.netlify.app/">Swift E Commerce Site</li>
-  <li><a href="https://knowledge-cafe-2.netlify.app/">Knowledge Cafe</li>
-</ul>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th colspan="4" align="center">
+      <h1>Custom API Used</h1>
+    </th>
+  </tr>
+  
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://peddy-peddy.netlify.app/">
+        <img src="https://i.ibb.co.com/8n4Lh7QP/Screenshot-2026-02-24-203323.png" width="100%">
+      </a><br>
+      <sub><b>Peddy Pet Shop</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://ph-tube-like-yt.netlify.app/">
+        <img src="https://i.ibb.co.com/6Jp3tXPh/Screenshot-2026-02-24-203344.png" width="100%">
+      </a><br>
+      <sub><b>Personal Youtube</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://swift-cart-1.netlify.app/">
+        <img src="https://i.ibb.co.com/Mxb2zzYr/Screenshot-2026-02-24-203400.png" width="100%">
+      </a><br>
+      <sub><b>Swift E-Commerce</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://knowledge-cafe-2.netlify.app/">
+        <img src="https://i.ibb.co.com/tTg28hqF/Screenshot-2026-02-24-203410.png" width="100%">
+      </a><br>
+      <sub><b>Knowledge Cafe</b></sub>
+    </td>
+  </tr>
+</table>
 
