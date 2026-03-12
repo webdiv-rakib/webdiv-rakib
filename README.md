@@ -234,6 +234,12 @@
       </a><br>
       <sub><b>Dream 11</b></sub>
     </td>
+    <td align="center" width="25%">
+      <a href="https://cs-ticket-system-eta.vercel.app/">
+        <img src="https://s13.gifyu.com/images/bvG9r.png" width="100%">
+      </a><br>
+      <sub><b>CS Ticket System</b></sub>
+    </td>
   </tr>
 </table>
 
