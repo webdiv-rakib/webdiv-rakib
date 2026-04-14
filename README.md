@@ -241,7 +241,7 @@
       <sub><b>CS Ticket System</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://https://boi-poka-brown.vercel.app/">
+      <a href="https://boi-poka-brown.vercel.app/">
         <img src="https://s13.gifyu.com/images/bqnvh.png" width="100%">
       </a><br>
       <sub><b>Boi Poka</b></sub>
