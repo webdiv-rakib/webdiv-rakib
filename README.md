@@ -246,6 +246,12 @@
       </a><br>
       <sub><b>Boi Poka</b></sub>
     </td>
+    <td align="center" width="25%">
+      <a href="https://hero-store-bd.vercel.app/">
+        <img src="https://s13.gifyu.com/images/bq0te.png" width="100%">
+      </a><br>
+      <sub><b>Hero Store</b></sub>
+    </td>
   </tr>
 </table>
 
