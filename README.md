@@ -253,5 +253,14 @@
       <sub><b>Hero Store</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://dragon-news-paper-b6bfa.web.app/category/1">
+        <img src="https://s13.gifyu.com/images/b717p.png" width="100%">
+      </a><br>
+      <sub><b>Dragon News Paper</b></sub>
+    </td>
+    
+  </tr>
 </table>
 
