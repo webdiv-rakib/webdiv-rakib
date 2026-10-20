@@ -12,6 +12,12 @@
   </kbd>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="webdiv-rakib's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 [//]: # (About Me Description Section)
 <h3 align="center">I’m a curious learner and passionate web developer who enjoys turning ideas into simple, functional websites. I love exploring new technologies, solving problems, and continuously improving my skills.</h3>
 <hr>
