@@ -6,11 +6,14 @@
 </h1>
 
 [//]: # (Main Gif Section)
-<p align="center">
-  <kbd>
-    <img src="https://i.ibb.co.com/HTZn7JkR/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif" width="500" style="border-radius: 20px;">
-  </kbd>
+
+<!--
+<p align="center"> 
+  <kbd> 
+    <img src="https://i.ibb.co.com/HTZn7JkR/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif" width="500" style="border-radius: 20px;"> 
+  </kbd> 
 </p>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
