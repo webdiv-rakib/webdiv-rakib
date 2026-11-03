@@ -56,50 +56,53 @@
   </a>
 </p>
 
-💻 Technologies that I know
+### 💻 Technologies that I know
 <br>
 
 <p align="center"><i>Programming Languages</i></p>
 <p align="center">
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/JavaScript.png" alt="JavaScript"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/c.png" alt="C Programming"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,c,python" />
+  </a>
 </p>
+
 <p align="center"><i>Front-end Technologies (Web)</i></p>
 <p align="center">
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/HTML.png" alt="HTML5"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/css.png" alt="CSS3"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/react.png" alt="React"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/tailwind.png" alt="Tailwind"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/firebase.png" alt="Firebase"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  </a>
 </p>
+
+<p align="center"><i>Back-end & Databases</i></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,firebase" />
+  </a>
+</p>
+
 <br>
 
-🔎 Familiar With
+### 🔎 Familiar With
 
-<p align="center"><i>Programming Languages</i></p>
+<p align="center"><i>Languages & Frameworks</i></p>
 <p align="center">
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/PHP.png" alt="PHP"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/python-original.png" alt="Python"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/java-original.png" alt="Java"/>
-</p>
-<p align="center"><i>Front-end Technology (Web)</i></p>
-<p align="center">
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/Bootsrap.png" alt="Bootsrap"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,java,bootstrap,mongodb" />
+  </a>
 </p>
 
 <p align="center"><i>Software and Tools</i></p>
 <p align="center">
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/vs-code.png" alt="VS Code"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/git.png" alt="Git SCM"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/github-api.png" alt="GitHub"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/vercel.png" alt="Vercel"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/surge-logo.png" alt="Surge"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/code-blocks.jpg" alt="Code::Blocks"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,postman,pnpm" />
+  </a>
 </p>
-<p align="center"><i>Operating System</i></p>
+
+<p align="center"><i>Operating Systems</i></p>
 <p align="center">
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/windows.png" alt="Windows"/>
-  <img height="50" src="https://raw.githubusercontent.com/rootnure/rootnure/main/images/icons/ubuntu.png" alt="Ubuntu"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux" />
+  </a>
 </p>
 
 <br>
