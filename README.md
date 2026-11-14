@@ -34,11 +34,10 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
-
-  <!-- Custom Top GitHub Contribution Graph -->
+  <!-- Custom Top GitHub Contribution Graph (2D Grid) -->
   <p align="center">
     <a href="https://github.com/webdiv-rakib">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdiv-rakib&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="95%" alt="webdiv-rakib's Contribution Graph" />
+      <img src="https://ghchart.rshah.org/0ea5e9/webdiv-rakib" width="90%" alt="webdiv-rakib's Contribution Grid" />
     </a>
   </p>
 
