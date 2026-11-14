@@ -34,12 +34,36 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
+  <div align="center">
+
+  <!-- Animated Snake Contribution Graph (Dark/Light Mode) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webdiv-rakib/webdiv-rakib/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webdiv-rakib/webdiv-rakib/output/github-snake.svg" />
+    <img alt="webdiv-rakib's snake contribution graph" src="https://raw.githubusercontent.com/webdiv-rakib/webdiv-rakib/output/github-snake-dark.svg" width="720" />
+  </picture>
+  <!-- Custom 2D Contribution Calendar (Sky Blue) -->
+  <a href="https://github.com/webdiv-rakib">
+    <img src="https://ghchart.rshah.org/0ea5e9/webdiv-rakib" width="720" alt="webdiv-rakib's Contribution Grid" />
+  </a>
+
+</div>
+  
   <!-- Custom Top GitHub Contribution Graph (2D Grid) -->
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://github.com/webdiv-rakib">
-      <img src="https://ghchart.rshah.org/0ea5e9/webdiv-rakib" width="90%" alt="webdiv-rakib's Contribution Grid" />
+      <img src="https://ghchart.rshah.org/0ea5e9/webdiv-rakib" width="720" alt="webdiv-rakib's Contribution Grid" />
     </a>
-  </p>
+  </p> -->
+
+  <!-- Animated Snake Contribution Graph (Dark/Light Mode) -->
+<!-- <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webdiv-rakib/webdiv-rakib/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webdiv-rakib/webdiv-rakib/output/github-snake.svg" />
+    <img alt="webdiv-rakib's snake contribution graph" src="https://raw.githubusercontent.com/webdiv-rakib/webdiv-rakib/output/github-snake-dark.svg" width="720" />
+  </picture>
+</div> -->
 
 </div>
 
